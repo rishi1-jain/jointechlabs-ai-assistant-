@@ -1,5 +1,4 @@
 # jointechlabs-ai-assistant-
-Jointechlabs AI Assistant
 
 Jointechlabs AI Assistant
 
